@@ -27,7 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7859306F240E4119006EE091 /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7859306F240E4119006EE091 /* Project3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78593072240E4119006EE091 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78593074240E4119006EE091 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		78593076240E4119006EE091 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,7 +62,7 @@
 		78593066240E4119006EE091 = {
 			isa = PBXGroup;
 			children = (
-				78593071240E4119006EE091 /* Project1 */,
+				78593071240E4119006EE091 /* Project3 */,
 				78593070240E4119006EE091 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -70,12 +70,12 @@
 		78593070240E4119006EE091 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7859306F240E4119006EE091 /* Project1.app */,
+				7859306F240E4119006EE091 /* Project3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		78593071240E4119006EE091 /* Project1 */ = {
+		78593071240E4119006EE091 /* Project3 */ = {
 			isa = PBXGroup;
 			children = (
 				78593072240E4119006EE091 /* AppDelegate.swift */,
@@ -88,7 +88,7 @@
 				78593080240E4120006EE091 /* Info.plist */,
 				78593086240E43D9006EE091 /* Content */,
 			);
-			path = Project1;
+			path = Project3;
 			sourceTree = "<group>";
 		};
 		78593086240E43D9006EE091 /* Content */ = {
@@ -111,9 +111,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7859306E240E4119006EE091 /* Project1 */ = {
+		7859306E240E4119006EE091 /* Project3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 78593083240E4120006EE091 /* Build configuration list for PBXNativeTarget "Project1" */;
+			buildConfigurationList = 78593083240E4120006EE091 /* Build configuration list for PBXNativeTarget "Project3" */;
 			buildPhases = (
 				7859306B240E4119006EE091 /* Sources */,
 				7859306C240E4119006EE091 /* Frameworks */,
@@ -123,9 +123,9 @@
 			);
 			dependencies = (
 			);
-			name = Project1;
+			name = Project3;
 			productName = Project1;
-			productReference = 7859306F240E4119006EE091 /* Project1.app */;
+			productReference = 7859306F240E4119006EE091 /* Project3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -143,7 +143,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7859306A240E4119006EE091 /* Build configuration list for PBXProject "Project1" */;
+			buildConfigurationList = 7859306A240E4119006EE091 /* Build configuration list for PBXProject "Project3" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -156,7 +156,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7859306E240E4119006EE091 /* Project1 */,
+				7859306E240E4119006EE091 /* Project3 */,
 			);
 		};
 /* End PBXProject section */
@@ -344,7 +344,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = v.kovalevskiy.Project1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Project3;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -362,7 +362,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = v.kovalevskiy.Project1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Project3;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -371,7 +371,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7859306A240E4119006EE091 /* Build configuration list for PBXProject "Project1" */ = {
+		7859306A240E4119006EE091 /* Build configuration list for PBXProject "Project3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				78593081240E4120006EE091 /* Debug */,
@@ -380,7 +380,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		78593083240E4120006EE091 /* Build configuration list for PBXNativeTarget "Project1" */ = {
+		78593083240E4120006EE091 /* Build configuration list for PBXNativeTarget "Project3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				78593084240E4120006EE091 /* Debug */,
