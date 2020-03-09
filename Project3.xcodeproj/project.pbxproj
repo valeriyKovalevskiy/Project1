@@ -78,6 +78,7 @@
 		78593071240E4119006EE091 /* Project3 */ = {
 			isa = PBXGroup;
 			children = (
+				78593080240E4120006EE091 /* Info.plist */,
 				78593072240E4119006EE091 /* AppDelegate.swift */,
 				78593074240E4119006EE091 /* SceneDelegate.swift */,
 				78593076240E4119006EE091 /* ViewController.swift */,
@@ -85,7 +86,6 @@
 				78593078240E4119006EE091 /* Main.storyboard */,
 				7859307B240E4120006EE091 /* Assets.xcassets */,
 				7859307D240E4120006EE091 /* LaunchScreen.storyboard */,
-				78593080240E4120006EE091 /* Info.plist */,
 				78593086240E43D9006EE091 /* Content */,
 			);
 			path = Project3;
@@ -338,12 +338,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2UV3UVQ6CK;
-				INFOPLIST_FILE = Project1/Info.plist;
+				INFOPLIST_FILE = Project3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = v.kovalevskiy.Project1;
+				PRODUCT_BUNDLE_IDENTIFIER = v.kovalevskiy.Project3;
 				PRODUCT_NAME = Project3;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -356,12 +356,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2UV3UVQ6CK;
-				INFOPLIST_FILE = Project1/Info.plist;
+				INFOPLIST_FILE = Project3/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = v.kovalevskiy.Project1;
+				PRODUCT_BUNDLE_IDENTIFIER = v.kovalevskiy.Project3;
 				PRODUCT_NAME = Project3;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
