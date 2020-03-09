@@ -6,3 +6,7 @@ part 1, day 16
 part 2, day 17
 
 part 3, day 18
+
+RENAMED to project3
+
+part 1, day 22
